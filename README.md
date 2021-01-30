@@ -146,4 +146,4 @@ DynamicVariables=1
 
 * Then after installing the TaskbarX, open the configure.exe to change the opacity of the taskbar and change the position of icons on the taskbar to center.
 # Make Windows look like Mac OS
-* Install NextDock from their website and configure its theme as shown below:-
+* Install NextDock from their website and configure its theme as shown in the picture inside Screenshots
