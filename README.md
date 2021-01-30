@@ -147,3 +147,4 @@ DynamicVariables=1
 * Then after installing the TaskbarX, open the configure.exe to change the opacity of the taskbar and change the position of icons on the taskbar to center.
 # Make Windows look like Mac OS
 * Install NextDock from their website and configure its theme as shown in the picture inside Screenshots
+* Now install the Big Siur skin on your rainmeter . Customize the widgets and other features according to your likes. 
