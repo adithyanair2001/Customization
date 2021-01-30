@@ -148,3 +148,5 @@ DynamicVariables=1
 # Make Windows look like Mac OS
 * Install NextDock from their website and configure its theme as shown in the picture inside Screenshots
 * Now install the Big Sur skin on your rainmeter . Customize the widgets and other features according to your likes. 
+* Use the icons provided to replace the icons to be used on the Nexus Dock
+* Enjoy your new windows experience.................
